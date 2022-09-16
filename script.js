@@ -8,7 +8,8 @@
 
 // 2. Plan
 
-// 3. Divide into subproblems
+// 3. Divide
+
 // - Create a computerSelection function
 // - Within that function, make it so the function randomly returns either 'Rock', 'Paper' or 'Scissors'.
 // - Create a playRound function that has two parameters: playerSelection and computerSelection
